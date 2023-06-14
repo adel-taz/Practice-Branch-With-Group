@@ -1,1 +1,2 @@
 This is Adel from another branch who feels left out from the main branch.
+I am making some change to my text file and commiting it again.
